@@ -5,11 +5,11 @@ More Lauouts
 Add more layouts 
 
 ## Screenshots
-![ScreenShot](https://raw.github.com/unknownuser88/morelayoutsmaster/1.png)
+![ScreenShot](https://raw.github.com/unknownuser88/morelayouts/master/1.png)
 
-![ScreenShot](https://raw.github.com/unknownuser88/morelayoutsmaster/2.png)
+![ScreenShot](https://raw.github.com/unknownuser88/morelayouts/master/2.png)
 
-![ScreenShot](https://raw.github.com/unknownuser88/morelayoutsmaster/3.png)
+![ScreenShot](https://raw.github.com/unknownuser88/morelayouts/master/3.png)
 
 ## Key Binding
 
