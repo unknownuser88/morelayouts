@@ -1,0 +1,36 @@
+[{
+    "id": "view",
+    "children": [{
+        "id": "layout",
+        "children": [{
+             "command": "set_layout",
+             "keys": ["alt+shift+6"],
+             "caption" : "3 Pane top",
+             "mnemonic": "C",
+             "args": {
+                "cols": [0.0, 0.5, 1.0],
+                "rows": [0.0, 0.5, 1.0],
+                "cells": [
+                    [0, 0, 1, 1],
+                    [1, 0, 2, 1],
+                    [0, 1, 2, 2]
+                ]
+            }
+        },
+        {
+             "command": "set_layout",
+             "keys": ["alt+shift+7"],
+             "caption" : "3 Pane right",
+             "mnemonic": "D",
+             "args": {
+                "cols": [0.0, 0.5, 1.0],
+                "rows": [0.0, 0.5, 1.0],
+                "cells": [
+                    [0, 0, 1, 2], 
+                    [1, 0, 2, 1], 
+                    [1, 1, 2, 2]
+                ]
+            }
+        }]
+    }]
+}]
