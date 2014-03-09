@@ -1,4 +1,4 @@
-More Lauouts
+More Layouts
 ================
 
 ## Summary
