@@ -5,15 +5,36 @@ More Layouts
 Add more layouts 
 
 ## Screenshots
-![ScreenShot](https://raw.github.com/unknownuser88/morelayouts/master/1.png)
+![ScreenShot](https://raw.github.com/unknownuser88/morelayouts/master/1.gif)
 
-![ScreenShot](https://raw.github.com/unknownuser88/morelayouts/master/2.png)
+         0.0                             0.5                           1.0
+              +------------------------------->;+---------------------------->
 
-![ScreenShot](https://raw.github.com/unknownuser88/morelayouts/master/3.png)
-
-![ScreenShot](https://raw.github.com/unknownuser88/morelayouts/master/4.png)
-
-![ScreenShot](https://raw.github.com/unknownuser88/morelayouts/master/5.png)
+             0,0                            1,0                             2,0
+      0.0+    +-------------------------------+-----------------------------+
+         |    |                               |                             |
+         |    |                               |                             |
+         |    |                               |                             |
+         |    |                               |                             |
+         |    |                               |                             |
+         |    |                               |                             |
+         |    |                               |                             |
+         v    |                              1,1                           2,1
+     0.25+    |                               +-----------------------------+
+         |    |                               |                             |
+         |    |                               |                             |
+         |    |                               |                             |
+         |    |                               |                             |
+         |    |                               |                             |
+         |    |                               |                             |
+         |    |                               |                             |
+         |  0,2                              1,2                            |
+         v    +-------------------------------+                             |
+     0.75+    |                               |                             |
+         |    |                               |                             |
+         |    |                               |                             |
+         |   0,3                             1,3                           2,3
+      1.0v    +-------------------------------+-----------------------------+
 
 ## Key Binding
 
