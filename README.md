@@ -50,3 +50,5 @@ The default key binding is "alt+shift+6" and "alt+shift+7" and "alt+shift+0".
 Support this project via [gittip][].
 
 [![Support via Gittip](https://rawgithub.com/twolfson/gittip-badge/0.2.0/dist/gittip.png)](https://www.gittip.com/unknownuser88/)
+
+[gittip]: https://www.gittip.com/unknownuser88/
