@@ -32,6 +32,20 @@
         },
         {
              "command": "set_layout",
+             "keys": ["alt+shift+7"],
+             "caption" : "3 Pane left",
+             "args": {
+                "cols": [0.0, 0.5, 1.0],
+                "rows": [0.0, 0.5, 1.0],
+                "cells": [
+                    [0, 0, 1, 2], 
+                    [1, 0, 2, 1], 
+                    [1, 1, 2, 2]
+                ]
+            }
+        },
+        {
+             "command": "set_layout",
              "keys": ["alt+shift+0"],
              "caption": "1.7/1.7",
              "args": {
